@@ -5,6 +5,7 @@ public class Main {
 
         int[] nums1 = new int[]{2, 3, 4, 2, 4, 6, 10};
         System.out.println(removeDuplicates(nums1));
+
     }
     public static int removeDuplicates(int[] nums){
         int result = nums.length;
